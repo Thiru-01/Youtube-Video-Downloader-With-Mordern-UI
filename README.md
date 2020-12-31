@@ -18,7 +18,7 @@ It is a Youtube Video Downloader with mordern UI and it uses Pytube and Pyqt5 as
 
 ## ScreenShots
 + **Home View**
-<img src = "ScreenShots/homeView.JPG" height=100 width=50>
+<img src = "ScreenShots/homeView.JPG" height=300 width=150>
 
 + **Download View**
 <img src = "ScreenShots/downloadView.JPG">
