@@ -1,5 +1,4 @@
 # Youtube-Video-Downloader-With-Mordern-UI
-Mordern GUI Based Video Downloader
 ==================================
 + Version : 1.0
 + Author : Thirumurugan.C
