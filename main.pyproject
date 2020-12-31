@@ -1,0 +1,3 @@
+{
+    "files": ["qml/controls/PlayableButtons.qml","qml/controls/TopAction.qml","qml/controls/ProgrssBar.qml","main.py","qml/controls/CustomBtn.qml","qml/controls/Textfield.qml","qml/pages/Homepage.qml","qml/controls/LeftBtns.qml","qml/controls/CustomCombobox.qml","main.qml","qml/pages/Compiler.qml","qml/controls/CustomCheckBox.qml","qml/controls/CustomBtnList.qml"]
+}
